@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>PORTFOLIO</title>
+</head>
+<body>
+    <h1>WELCOME,I AM PALAK!</h1>
+    <hr />
+    <ul>
+        <li><img align="Right" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-dsc/avatars/palak_oza_0eLJJBy.jpg" style=" width:200px;height:200px;" /></li>
+        <li><b>COLLEGE:</b> International Institute of Information Technology</li>
+        <li><b>COURSE: </b> Computer Engineering</li>
+        <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" style="width:20px;height:20px;" /><a href="palak.s.oza@gmail.com"> palak.s.oza@gmail.com</a> </li>
+        <li><img src="https://cdn2.iconfinder.com/data/icons/linkedin-ui-flat/48/LinkedIn_UI-03-512.png" style="width:20px;height:20px;"><a href="https://www.linkedin.com/in/palak-oza"> palak-oza</a></li>
+        <li><img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" style="width:20px;height:20px;" /><a href="https://twitter.com/Palakoza5S"> @Palakoza5S</a></li>
+        <li><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="width:20px;height:20px;" /><a href="https://github.com/palak-oza"> palak-oza</a></li>
+    </ul>
+
+    <h2>RELEVENT SKILLS:</h2>
+    <p>
+        Python [numpy | scikit learn | pandas] (basics)<br />
+        C++[math.h |fstream | pointer | array] (Basics)<br />
+        Html[entities | labels | buttons | forms | tables]<br />
+    </p>
+    <h2>ABOUT ME:</h2>
+    <p>
+        Hello and thank you for visiting my portfolio site.<br />
+        I am a tech enthusiast.<br />
+        I am always curious about evrything.<br />
+    </p>
+</body>
+</html>
